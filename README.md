@@ -10,7 +10,8 @@ When you open the app, you will see a search bar with three filters: Character, 
 
 When you get your search results, you will see a list of anime quotes that match your search. Each quote will show the name of the anime series, the name of the character who said the quote, and the actual quote.
 
-Future Development
+Future Development:
+
 Add more search filters to make it easier to find quotes based on specific criteria.
 Improve the styling of the app to make it more modern and user-friendly.
 Add a feature to allow users to save their favorite quotes or share them on social media.
